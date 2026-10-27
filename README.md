@@ -1,6 +1,6 @@
-JobPilot — Smart Job Application Tracker
-Live website: https://smart-job-tracker-ui.vercel.app/
-GitHub repository: https://github.com/saiharshitha055/Smart-Job-Tracker-UI
+#JobPilot — Smart Job Application Tracker
+#Live website: https://smart-job-tracker-ui.vercel.app/
+#GitHub repository: https://github.com/saiharshitha055/Smart-Job-Tracker-UI
 
 JobPilot is a web dashboard for organizing job leads received through LinkedIn job-alert emails. It combines an n8n workflow, Google Sheets, a Google Apps Script web endpoint, and a React + Vite frontend deployed on Vercel.
 Features
